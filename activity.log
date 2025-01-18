@@ -50,3 +50,5 @@
 2025-12-07 09:09:00 | DEBUG | repo=curl | action=commit
 2025-07-09 12:32:00 | WARN | repo=curl | action=commit
 2025-10-19 12:47:00 | INFO | repo=curl | action=commit
+2025-06-21 21:22:00 | DEBUG | repo=curl | action=edit | files=5
+2025-01-18 15:10:00 | DEBUG | repo=curl | action=commit
