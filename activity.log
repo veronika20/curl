@@ -37,3 +37,5 @@
 2025-09-20 18:35:00 | INFO | repo=curl | action=commit
 2025-01-15 15:06:00 | WARN | repo=curl | action=commit
 2025-12-26 18:02:00 | WARN | repo=curl | action=commit
+2025-08-26 21:47:00 | WARN | repo=curl | action=edit | files=2
+2025-11-03 09:53:00 | DEBUG | repo=curl | action=commit
